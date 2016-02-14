@@ -5,6 +5,8 @@
     "main": "lib/index",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {},
-    "version": "2.4.2"
+    "dependencies": {
+        "classnames": "^2.2.0"
+    },
+    "version": "2.4.3"
 }
