@@ -1,0 +1,12 @@
+{
+    "name": "rc-input-number",
+    "description": "input-number ui component for react",
+    "repos": "https://github.com/react-component/input-number.git",
+    "main": "lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "classnames": "^2.2.0"
+    },
+    "version": "2.4.3"
+}
